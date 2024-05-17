@@ -4,3 +4,5 @@ A Pytorch and Tenserflow federated learning framework for CNNs. Trains on decent
 There are two files avaliable for user to clone and our project allow for customized dataset.
 - Pytorch-federated.py
 - tensorflow-federated.py
+
+[Notice]: main.py 即將被刪出，因為模型準確率不好。

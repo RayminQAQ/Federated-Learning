@@ -5,7 +5,7 @@ There are two files avaliable for user to clone and our project allow for custom
 - Pytorch-federated.py
 - tensorflow-federated.py
 
-We ended up at most 98% accuracy in our customized dataset generated from our other repository. [HERE: MalDetect_pcap](https://github.com/RayminQAQ/MalDetect_pcap)
+We ended up at most 98% accuracy in our customized dataset generated from our other repository. ([HERE: MalDetect_pcap](https://github.com/RayminQAQ/MalDetect_pcap))
 
 [Snippet for out accuracy]
   - epsilon = 100 -> Accuracy: 11.78 %

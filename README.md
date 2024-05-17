@@ -7,7 +7,7 @@ There are two files avaliable for user to clone and our project allow for custom
 
 We ended up at most 98% accuracy in our customized dataset generated from our other repository. ([HERE: MalDetect_pcap](https://github.com/RayminQAQ/MalDetect_pcap))
 
-[Snippet for out accuracy]
+[Snippet for out accuracy in 100 epoch]
   - epsilon = 100 -> Accuracy: 11.78 %
   - epsilon = 50 -> Accuracy: 16.76 %
   - epsilon = 10 -> Accuracy: 9.18 %

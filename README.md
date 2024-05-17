@@ -5,4 +5,5 @@ There are two files avaliable for user to clone and our project allow for custom
 - Pytorch-federated.py
 - tensorflow-federated.py
 
+We ends up 97% accuracy in our customize dataset generated from our other repository.
 [Notice]: main.py 即將被刪出，因為模型準確率不好。

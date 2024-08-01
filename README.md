@@ -15,4 +15,4 @@ We ended up at most 98% accuracy in our customized dataset generated from our ot
   - epsilon = 1e-08 -> Accuracy: 98.04 %
   - epsilon = 0 -> Accuracy: 98.15 %
 
-[Notice]: main.py 即將被刪出，因為模型準確率不好。
+[Notice]: main.py 即將被刪除，因為模型準確率不好。
